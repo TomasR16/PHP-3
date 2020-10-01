@@ -1,0 +1,27 @@
+h1 {
+  position:absolute;
+  color: black;
+}
+
+.knop{
+  background-color: 	#808080;
+  font-size: 15px;
+  color: red;
+  padding: 30px 30px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.reset{
+  font-size: 20px;
+  background-color: #4CAF50;
+  position: absolute;
+  top: 10%;
+}
+
+
+.center{
+  position: absolute;
+  top: 20%;
+}
